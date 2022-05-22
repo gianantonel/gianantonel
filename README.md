@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gianantonel, Machine Learning Engineer with Mechanical Engineering background. Vast experience in structural analysis with Finite Element Method, 3D CAD Design software and Research experience in Failure analysis field.
+- 👋 Hi, I’m Gianfranco Antonel, 32 years old, Argentinian Junior Machine Learning Engineer with Senior Mechanical Engineering background. Vast experience in structural analysis with Finite Element Method, 3D CAD Design software and Research experience in Failure analysis field.
 - 👀 I’m interested in Artificial Intelligence and Machine Learning Research/Applications and Data Science practical uses.
 - 🌱 I’m currently learning about Auto-Encoders as Anomaly detection tool for Time-Series analysis.
 - 💞️ I’m looking to collaborate on Research and Development of AI/ML projects.

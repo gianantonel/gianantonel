@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Gianfranco Antonel, Data Scientist - Machine Learning / Artificial Intelligence Developer with Senior Mechanical Engineering background. 
--  Currently working as Data Scientist as External Partner at Mercado Libre, in the People Analytics team, inside the Planning & Analytics Area, through Acciona IT.
+-  Currently working as Data Scientist in the Automation team at TENARIS through Acciona IT.
 
 I´m enjoying it a lot !!!
-Learning the power of BigQuery !!
+Applying Artificial Neural Networks for Time Series Forecasting !!
 ==============================================
 
-- I´m 33, from Cordoba, Argentina.
+- I´m 34, from Cordoba, Argentina.
 I strongly think that you create the world around you. It means your energy, positive attitude and actions mold your surrounding universe.
 - Passionate about Engineering in general, more specifically cars, planes and machines.
 - River Plate and Arsenal FC fan.
@@ -18,6 +18,7 @@ I strongly think that you create the world around you. It means your energy, pos
 
 
 - 🌱 I’m currently learning about Auto-Encoders as Anomaly detection tool for Time-Series analysis.
+- Using my Data Science skills to introduce myself to the Sports Analytics field !!
 
 - 💞️ I’m looking to collaborate on Research and Development of AI/ML projects.
 
